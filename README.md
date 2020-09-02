@@ -15,9 +15,12 @@ Database: MySQL 5.6/5.7.
 Methodologies/Design Pattern: OOP, MVC, DAO, Factory Pattern, Singleton.
 IDE: Eclipse, Net Beans.
 
-Thanks in advance.
+Thank you in advance.
+
 Sagar Ghodake.
+
 Email- sagarghodake1432@gmail.com
+
 Contact- 9527495733
 
 #softwaredeveloper #java #developer #ITrecruiter #technicalrecruiter #punejobs #punejobs #javadeveloper #resume #fresher #SoftwareEngineer #lookingforjob #opentowork
