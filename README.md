@@ -1,5 +1,3 @@
-![Screenshot (420)](https://user-images.githubusercontent.com/60310009/91991374-7091ee80-ed50-11ea-9346-9829de077de9.png)
-
 # myportfolio
 https://sagarghodake.github.io/myportfolio
 
@@ -24,4 +22,4 @@ Contact- 9527495733
 
 #softwaredeveloper #java #developer #ITrecruiter #technicalrecruiter #punejobs #punejobs #javadeveloper #resume #fresher #SoftwareEngineer #lookingforjob #opentowork
 
-![Homepage](https://user-images.githubusercontent.com/60310009/90055645-4e7df100-dcfb-11ea-81dd-80a115f6dcf2.jpg)
+![Screenshot (420)](https://user-images.githubusercontent.com/60310009/91991374-7091ee80-ed50-11ea-9346-9829de077de9.png)
