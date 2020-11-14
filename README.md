@@ -1,8 +1,9 @@
 # myportfolio
 https://sagarghodake.github.io/myportfolio
 
-I am Sagar Ghodake. I have completed my degree Master of Computer Application (Science) in 2019-2020. I have done my internship as well as pursuing a java certification course at Squad Infotech Ptv Ltd. Kothrud, Pune. Now I am Looking for a good opportunity in the Software development profile as Jr Java Developer. I can join on immediate basis.
-Preferred location: Pune/Mumbai/Banglore/Delhi If you don't have any position at this moment, mention me in any post related to opening for Software Developer from your connection and request you to like, share comments.
+Completed MCA (2020) and have hands-on experience in developing an application using J2SE and J2EE technologies. 
+Experienced Java Software Intern with a demonstrated history of working in the information technology and services industry. 
+Skilled in Hibernate, Servlet, JSP, Spring, Web services and Maven. 
 
 Technical Skills -
 ---------
@@ -32,4 +33,5 @@ Contact- 9527495733
 
 #softwaredeveloper #java #developer #ITrecruiter #technicalrecruiter #punejobs #punejobs #javadeveloper #resume #fresher #SoftwareEngineer #lookingforjob #opentowork
 
-![Screenshot (420)](https://user-images.githubusercontent.com/60310009/91991374-7091ee80-ed50-11ea-9346-9829de077de9.png)
+![image](https://user-images.githubusercontent.com/60310009/99152403-85332100-26c7-11eb-9854-52d4cb955b52.png)
+
